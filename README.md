@@ -1,6 +1,6 @@
-# Java Games from 2015 
+# Java Games from 2018
 
-This repository serves as a **time capsule** for some of my earliest Java game projects, developed in 2015. The goal was simple: to put basic programming concepts into practice while learning about logic and interactive development.
+This repository serves as a **time capsule** for some of my earliest Java game projects, developed in 2018. The goal was simple: to put basic programming concepts into practice while learning about logic and interactive development.
 
 ### The Projects
 
